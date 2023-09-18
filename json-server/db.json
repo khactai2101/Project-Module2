@@ -1,0 +1,744 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Kem Chống Nắng Dành Cho Mọi Loại Da ZO® Skin Health Smart Tone Broad Spectrum SPF 50",
+      "price": 900000,
+      "description": "là dòng kem chống nắng an toàn cho mọi loại da với khả năng chống nắng quang phổ rộng, chống tia UVA, UVB, tia IR-A, HEV. Đặc biệt, sản phẩm có khả năng chống oxy hóa cho da lên đến 12 tiếng, ức chế melanin, bảo vệ và phục hồi làn da khỏe mạnh.",
+      "brand": "Sunplay",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2022/09/Zo-Skin-Health-Smart-Tone-SPF-50-510x510.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2022/09/kem-chong-nang-Zo-Skin-Health-Smart-Tone-SPF-50-5-510x510.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2022/09/kem-chong-nang-Zo-Skin-Health-Smart-Tone-SPF-50-1-510x510.jpg"
+        }
+      ],
+      "capacity": [
+        {
+          "id": 1,
+          "name": "10ml",
+          "price": 888888
+        },
+        {
+          "id": 2,
+          "name": "100ml",
+          "price": 8888888
+        },
+        {
+          "id": 3,
+          "name": "200ml",
+          "price": 888888888
+        }
+      ],
+      "provider": "Việt Nam",
+      "category": "Kem Chống Nắng",
+      "stock": 130,
+      "quantity": 0,
+      "feedback": [
+        {
+          "comment": "",
+          "rating": 0
+        }
+      ],
+      "totalRating": 0
+    },
+    {
+      "id": 2,
+      "name": "Kem Chống Nắng Farmona Sun SPF 50 Oil Free",
+      "price": 777777,
+      "description": "lên tone khá nhẹ, phù hợp với những bạn thích để nền da tự nhiên. Điểm đặc biệt của em này chính là công thức không dầu phù hợp với cả da dầu, da mụn- những làn da khó ưa và khó tìm kem chống nắng nhất mùa hè này.",
+      "brand": "Nivea",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-11-510x510.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-4-510x510.png"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-3-1-510x505.jpg"
+        }
+      ],
+      "capacity": [
+        {
+          "id": 1,
+          "name": "10ml",
+          "price": 875865
+        },
+        {
+          "id": 2,
+          "name": "100ml",
+          "price": 986789
+        },
+        {
+          "id": 3,
+          "name": "200ml",
+          "price": 9867896
+        }
+      ],
+      "provider": "Thái Lan",
+      "category": "Kem Chống Nắng",
+      "stock": 160,
+      "quantity": 0,
+      "feedback": [
+        {
+          "comment": "",
+          "rating": 0
+        }
+      ],
+      "totalRating": 0
+    },
+    {
+      "id": 3,
+      "name": "Kem Chống Nắng Clarins UV Plus 5P SPF 50/PA+++ Translucent 50ML – Bản Trắng (New)",
+      "price": 987687,
+      "description": "là dòng kem chống nắng thế hệ mới của Clarins với hiệu quả chống lại 5 loại ô nhiễm khác nhau. Tái xuất với công dụng được nâng cấp siêu đỉnh, Kem Chống Nắng Clarins UV Plus 5P SPF 50/PA+++ Translucent chắc chắn sẽ không khiến chị em thất vọng.",
+      "brand": "La Roche Posay",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2022/04/chong-nang-clarins-uv-plus-5p-spf-50-translucent-510x510.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-clarins-uv-plus-anti-pollution-hydration-spf-50-pa-50ml-2-510x510.png"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-clarins-uv-plus-anti-pollution-hydration-spf-50-pa-50ml-8-510x510.jpg"
+        }
+      ],
+      "capacity": [
+        {
+          "id": 1,
+          "name": "10ml",
+          "price": 875865
+        },
+        {
+          "id": 2,
+          "name": "100ml",
+          "price": 986789
+        },
+        {
+          "id": 3,
+          "name": "200ml",
+          "price": 9867896
+        }
+      ],
+      "provider": "Lào",
+      "category": "Kem Chống Nắng",
+      "stock": 200,
+      "quantity": 0,
+      "feedback": [
+        {
+          "comment": "",
+          "rating": 0
+        }
+      ],
+      "totalRating": 0
+    },
+    {
+      "id": 5,
+      "name": "Phấn Má Hồng Mac Powder Blush Lisa Melba (Phiên Bản Giới Hạn) – Màu Hồng Cam Đất",
+      "price": 999999,
+      "description": "được thiết kế với kiểu dáng đẹp mắt, nhỏ gọn với tone màu hồng cam đất siêu xinh cùng chất phấn mịn, đậm màu đã làm cho các cô nàng phải say mê đến nao lòng. Đây là dòng phấn siêu HOT của nhà Mac nổi tiếng và được rất nhiều người săn đón trên thị trường.",
+      "brand": "Mac.",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2023/02/phan-ma-hong-mac-powde-blush-lisa-melba-phien-ban-gioi-han-3-510x510.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2023/02/phan-ma-hong-mac-powde-blush-lisa-melba-phien-ban-gioi-han-5-510x510.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2023/02/phan-ma-hong-mac-powde-blush-lisa-melba-phien-ban-gioi-han-6-510x510.jpg"
+        }
+      ],
+      "capacity": [
+        {
+          "id": 1,
+          "name": "10ml",
+          "price": 888888
+        },
+        {
+          "id": 2,
+          "name": "100ml",
+          "price": 45645644
+        },
+        {
+          "id": 3,
+          "name": "200ml",
+          "price": 345345555
+        }
+      ],
+      "provider": "Hàn Quốc",
+      "category": "Trang Điểm Mặt",
+      "stock": 70,
+      "quantity": 0,
+      "feedback": [
+        {
+          "comment": "",
+          "rating": 0
+        }
+      ],
+      "totalRating": 0
+    },
+    {
+      "id": 6,
+      "name": "Mascara 2 đầu Browit By NongChat Professional Duo Mascara #Sexy Black (Cam)",
+      "price": 2300000,
+      "description": "Với công thức chống nước, chống mồ hôi, đẹp cả ngày mà không lem, đây chắc chắn sẽ là vũ khí tối thượng cho đôi mắt thêm phần cuốn hút.",
+      "brand": "Bbia Cashmere Shadow.",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2023/04/Mascara-2-dau-Browit-By-NongChat-Professional-Duo-Mascara-Sexy-Black-Cam-dd.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2023/04/Mascara-2-dau-Browit-By-NongChat-Professional-Duo-Mascara-7.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2023/04/Mascara-2-dau-Browit-By-NongChat-Professional-Duo-Mascara-5.jpg"
+        }
+      ],
+      "capacity": [
+        {
+          "id": 1,
+          "name": "10ml",
+          "price": 765456
+        },
+        {
+          "id": 2,
+          "name": "100ml",
+          "price": 7653463
+        },
+        {
+          "id": 3,
+          "name": "200ml",
+          "price": 98765876
+        }
+      ],
+      "provider": "Trung Quốc",
+      "category": "Trang Điểm Mắt",
+      "stock": 234,
+      "quantity": 0,
+      "feedback": [
+        {
+          "comment": "",
+          "rating": 0
+        }
+      ],
+      "totalRating": 0
+    },
+    {
+      "id": 7,
+      "name": "Xịt khoáng khóa Makeup Dưỡng Ẩm MAC Prep+ Prime Fix+",
+      "price": 630000,
+      "description": "là sản phẩm đến từ thương hiệu MAC nổi tiếng. Với công thức mới độc đáo giúp da mịn màng, nhẹ nhàng thông thoáng như không hề có lớp trang điểm.",
+      "brand": "Innisfree.",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2023/08/xit-khoang-khoa-makeup-duong-am-mac-prep-prime-fix-510x510.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2023/08/xit-khoang-khoa-makeup-duong-am-mac-prep-prime-fix-2-1-510x510.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2023/08/xit-khoang-khoa-makeup-duong-am-mac-prep-prime-fix-10-1-510x510.jpg"
+        }
+      ],
+      "capacity": [
+        {
+          "id": 1,
+          "name": "10ml",
+          "price": 124253
+        },
+        {
+          "id": 2,
+          "name": "100ml",
+          "price": 234678
+        },
+        {
+          "id": 3,
+          "name": "200ml",
+          "price": 765456
+        }
+      ],
+      "provider": "Việt Nam",
+      "category": "Xịt Khoáng",
+      "stock": 654,
+      "quantity": 0,
+      "feedback": [
+        {
+          "comment": "",
+          "rating": 0
+        }
+      ],
+      "totalRating": 0
+    },
+    {
+      "name": "Nước Hoa Nữ Louis Vuitton Matière Noire Eau De Parfum",
+      "price": "300000",
+      "description": "là hương thơm bí ẩn từ gỗ quý, thanh lịch từ hoa anh thảo và gợi cảm từ trầm hương. Đúng chất của những quý cô xinh đẹp nước Pháp, họ không cần điểm phấn tô son, không cần váy áo cầu kì – tự họ đã đầy khí chất và quyến rũ",
+      "brand": "Louis Vuitton",
+      "provider": "Đức",
+      "category": "Nước hoa",
+      "stock": "112",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2022/09/nuoc-hoa-Unisex-Louis-Vuitton-Matiere-Noire-edp.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2022/09/nuoc-hoa-Unisex-Louis-Vuitton-Matiere-Noire-edp3-1024x1024.png"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2022/09/nuoc-hoa-Unisex-Louis-Vuitton-Matiere-Noire-edp8-1024x1024.jpg"
+        }
+      ],
+      "feedback": [],
+      "id": 8
+    },
+    {
+      "name": "Mẫu Hộp Quà Tặng Son Môi, Mỹ Phẩm Cực Xinh – Mới Nhất 2022",
+      "price": "300000",
+      "description": "Bộ sưu tập những mẫu hộp quà tặng đẹp xinh lung linh mới nhất tại Kyo Authentic, những mẫu hộp quà tặng đẹp nhất thay lời muốn nói dành tặng người thương của bạn",
+      "brand": "Kyo Authentic",
+      "provider": "Kyo Authentic",
+      "category": "Son",
+      "stock": "8",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2022/10/Hop-qua-KYO-17-1.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2022/10/Hop-qua-kyo-17-1024x768.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2022/10/Hop-qua-kyo-15-1152x1536.jpg"
+        }
+      ],
+      "feedback": [],
+      "id": 9
+    },
+    {
+      "name": "Nước Hoa Nữ Gucci Bloom Ambrosia Di Fiori EDP Intense",
+      "price": "500000",
+      "description": "được ra mắt vào năm 2019, là phiên bản hương thơm đầy cuốn hút với mùi hương sang trọng, quyến rũ.",
+      "brand": "Gucci",
+      "provider": "Pháp",
+      "category": "Nước hoa",
+      "stock": "123",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://kyo.vn/wp-content/uploads/2022/08/nuoc-hoa-nu-gucci-bloom-ambrosia-di-fiori-edp.png"
+        },
+        {
+          "id": 2,
+          "url": "https://kyo.vn/wp-content/uploads/2022/08/nuoc-hoa-nu-gucci-bloom-ambrosia-di-fiori-edp-2.png"
+        },
+        {
+          "id": 3,
+          "url": "https://kyo.vn/wp-content/uploads/2022/08/nuoc-hoa-nu-gucci-bloom-ambrosia-di-fiori-edp-3.png"
+        }
+      ],
+      "feedback": [],
+      "id": 10
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Nước Hoa"
+    },
+    {
+      "id": 2,
+      "name": "Kem Chống Nắng"
+    },
+    {
+      "id": 3,
+      "name": "Trang Điểm Mặt"
+    },
+    {
+      "id": 4,
+      "name": "Trang Điểm Mắt"
+    },
+    {
+      "id": 5,
+      "name": "Chăm Sóc Da"
+    }
+  ],
+  "provider": [
+    {
+      "id": 1,
+      "name": "Trung Quốc"
+    },
+    {
+      "id": 2,
+      "name": "Hàn Quốc"
+    },
+    {
+      "id": 3,
+      "name": "Việt Nam"
+    },
+    {
+      "id": 4,
+      "name": "Lào"
+    },
+    {
+      "id": 5,
+      "name": "Thái Lan"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Sunplay"
+    },
+    {
+      "id": 2,
+      "name": "Mac"
+    },
+    {
+      "id": 3,
+      "name": "Innisfree"
+    },
+    {
+      "id": 4,
+      "name": "Nivea"
+    },
+    {
+      "id": 5,
+      "name": "La Roche Posay"
+    },
+    {
+      "id": 6,
+      "name": "Gucci"
+    },
+    {
+      "id": 7,
+      "name": "Bbia Cashmere Shadow"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "KhacTai",
+      "email": "nguyenkhactai1@gmail.com",
+      "password": "12345678",
+      "gender": "nam",
+      "phone": 12345678,
+      "address": "Da Nang",
+      "cart": [
+        {
+          "id": 2,
+          "name": "Kem Chống Nắng Farmona Sun SPF 50 Oil Free",
+          "price": 777777,
+          "description": "lên tone khá nhẹ, phù hợp với những bạn thích để nền da tự nhiên. Điểm đặc biệt của em này chính là công thức không dầu phù hợp với cả da dầu, da mụn- những làn da khó ưa và khó tìm kem chống nắng nhất mùa hè này.",
+          "brand": "Nivea",
+          "images": [
+            {
+              "id": 1,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-11-510x510.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-4-510x510.png"
+            },
+            {
+              "id": 3,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-3-1-510x505.jpg"
+            }
+          ],
+          "capacity": 50,
+          "provider": "Thái Lan",
+          "category": "Kem Chống Nắng",
+          "stock": 160,
+          "quantity": 2,
+          "feedback": [
+            {
+              "comment": "",
+              "rating": 0
+            }
+          ],
+          "totalRating": 0
+        }
+      ],
+      "discount": 10,
+      "role": "Admin",
+      "avatar": "https://haycafe.vn/wp-content/uploads/2023/01/Hinh-anh-avatar-trang-cute.jpg",
+      "status": "Active"
+    },
+    {
+      "email": "nguyenkhactai11@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "phone": "",
+      "address": "",
+      "cart": [],
+      "discount": "",
+      "role": "User",
+      "avatar": "https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/275566269_1683334372010331_8323418812371684654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9KMEhDnbJn0AX_ccZUZ&_nc_ht=scontent.fdad3-5.fna&oh=00_AfAfKruFkDGYdn-vVRlozBDdiVlle2ivfXL6BQYSpn0fFg&oe=64F4D9A6",
+      "status": "Blocked",
+      "id": 2
+    },
+    {
+      "email": "nguyenkhactai111@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "phone": "",
+      "address": "",
+      "cart": [],
+      "discount": "",
+      "role": "User",
+      "avatar": "https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/275566269_1683334372010331_8323418812371684654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9KMEhDnbJn0AX_ccZUZ&_nc_ht=scontent.fdad3-5.fna&oh=00_AfAfKruFkDGYdn-vVRlozBDdiVlle2ivfXL6BQYSpn0fFg&oe=64F4D9A6",
+      "status": "Blocked",
+      "id": 3
+    },
+    {
+      "email": "nguyenkhactai21@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "phone": "",
+      "address": "",
+      "cart": [],
+      "discount": "",
+      "role": "User",
+      "avatar": "https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/275566269_1683334372010331_8323418812371684654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9KMEhDnbJn0AX_ccZUZ&_nc_ht=scontent.fdad3-5.fna&oh=00_AfAfKruFkDGYdn-vVRlozBDdiVlle2ivfXL6BQYSpn0fFg&oe=64F4D9A6",
+      "status": "Blocked",
+      "id": 4
+    },
+    {
+      "email": "ndva2001@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "phone": "",
+      "address": "",
+      "cart": [
+        {
+          "id": 2,
+          "name": "Kem Chống Nắng Farmona Sun SPF 50 Oil Free",
+          "price": 777777,
+          "description": "lên tone khá nhẹ, phù hợp với những bạn thích để nền da tự nhiên. Điểm đặc biệt của em này chính là công thức không dầu phù hợp với cả da dầu, da mụn- những làn da khó ưa và khó tìm kem chống nắng nhất mùa hè này.",
+          "brand": "Nivea",
+          "images": [
+            {
+              "id": 1,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-11-510x510.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-4-510x510.png"
+            },
+            {
+              "id": 3,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-Farmona-sun-spf-50-oil-free-3-1-510x505.jpg"
+            }
+          ],
+          "capacity": 100,
+          "provider": "Thái Lan",
+          "category": "Kem Chống Nắng",
+          "stock": 160,
+          "quantity": 1,
+          "feedback": [
+            {
+              "comment": "",
+              "rating": 0
+            }
+          ],
+          "totalRating": 0
+        }
+      ],
+      "discount": "",
+      "role": "User",
+      "avatar": "https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/275566269_1683334372010331_8323418812371684654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9KMEhDnbJn0AX_ccZUZ&_nc_ht=scontent.fdad3-5.fna&oh=00_AfAfKruFkDGYdn-vVRlozBDdiVlle2ivfXL6BQYSpn0fFg&oe=64F4D9A6",
+      "status": "Blocked",
+      "id": 5
+    },
+    {
+      "email": "nguyenkhactai2101@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "phone": "",
+      "address": "",
+      "cart": [],
+      "discount": "",
+      "role": "User",
+      "avatar": "https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/275566269_1683334372010331_8323418812371684654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9KMEhDnbJn0AX_ccZUZ&_nc_ht=scontent.fdad3-5.fna&oh=00_AfAfKruFkDGYdn-vVRlozBDdiVlle2ivfXL6BQYSpn0fFg&oe=64F4D9A6",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "email": "nguyenkhactai@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "phone": "",
+      "address": "",
+      "cart": [],
+      "discount": "",
+      "role": "User",
+      "avatar": "https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/275566269_1683334372010331_8323418812371684654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9KMEhDnbJn0AX_ccZUZ&_nc_ht=scontent.fdad3-5.fna&oh=00_AfAfKruFkDGYdn-vVRlozBDdiVlle2ivfXL6BQYSpn0fFg&oe=64F4D9A6",
+      "status": "Active",
+      "id": 7
+    },
+    {
+      "email": "nguyenkhactai23@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "phone": "",
+      "address": "",
+      "cart": [
+        {
+          "id": 6,
+          "name": "Mascara 2 đầu Browit By NongChat Professional Duo Mascara #Sexy Black (Cam)",
+          "price": 2300000,
+          "description": "Với công thức chống nước, chống mồ hôi, đẹp cả ngày mà không lem, đây chắc chắn sẽ là vũ khí tối thượng cho đôi mắt thêm phần cuốn hút.",
+          "brand": "Bbia Cashmere Shadow.",
+          "images": [
+            {
+              "id": 1,
+              "url": "https://kyo.vn/wp-content/uploads/2023/04/Mascara-2-dau-Browit-By-NongChat-Professional-Duo-Mascara-Sexy-Black-Cam-dd.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://kyo.vn/wp-content/uploads/2023/04/Mascara-2-dau-Browit-By-NongChat-Professional-Duo-Mascara-7.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://kyo.vn/wp-content/uploads/2023/04/Mascara-2-dau-Browit-By-NongChat-Professional-Duo-Mascara-5.jpg"
+            }
+          ],
+          "capacity": 50,
+          "provider": "Trung Quốc",
+          "category": "Trang Điểm Mắt",
+          "stock": 234,
+          "quantity": 2,
+          "feedback": [
+            {
+              "comment": "",
+              "rating": 0
+            }
+          ],
+          "totalRating": 0
+        }
+      ],
+      "discount": "",
+      "role": "User",
+      "avatar": "https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/275566269_1683334372010331_8323418812371684654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9KMEhDnbJn0AX_ccZUZ&_nc_ht=scontent.fdad3-5.fna&oh=00_AfAfKruFkDGYdn-vVRlozBDdiVlle2ivfXL6BQYSpn0fFg&oe=64F4D9A6",
+      "status": "Blocked",
+      "id": 8
+    },
+    {
+      "email": "nguyenkhactai44@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "phone": "",
+      "address": "",
+      "cart": [
+        {
+          "id": 3,
+          "name": "Kem Chống Nắng Clarins UV Plus 5P SPF 50/PA+++ Translucent 50ML – Bản Trắng (New)",
+          "price": 987687,
+          "description": "là dòng kem chống nắng thế hệ mới của Clarins với hiệu quả chống lại 5 loại ô nhiễm khác nhau. Tái xuất với công dụng được nâng cấp siêu đỉnh, Kem Chống Nắng Clarins UV Plus 5P SPF 50/PA+++ Translucent chắc chắn sẽ không khiến chị em thất vọng.",
+          "brand": "La Roche Posay",
+          "images": [
+            {
+              "id": 1,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/chong-nang-clarins-uv-plus-5p-spf-50-translucent-510x510.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-clarins-uv-plus-anti-pollution-hydration-spf-50-pa-50ml-2-510x510.png"
+            },
+            {
+              "id": 3,
+              "url": "https://kyo.vn/wp-content/uploads/2022/04/kem-chong-nang-clarins-uv-plus-anti-pollution-hydration-spf-50-pa-50ml-8-510x510.jpg"
+            }
+          ],
+          "capacity": 100,
+          "provider": "Lào",
+          "category": "Kem Chống Nắng",
+          "stock": 200,
+          "quantity": 2,
+          "feedback": [
+            {
+              "comment": "",
+              "rating": 0
+            }
+          ],
+          "totalRating": 0
+        }
+      ],
+      "discount": "",
+      "role": "User",
+      "avatar": "https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/275566269_1683334372010331_8323418812371684654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9KMEhDnbJn0AX_ccZUZ&_nc_ht=scontent.fdad3-5.fna&oh=00_AfAfKruFkDGYdn-vVRlozBDdiVlle2ivfXL6BQYSpn0fFg&oe=64F4D9A6",
+      "status": "Active",
+      "id": 9
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1,
+      "name": "KhacTai",
+      "email": "nguyenkhactai1@gmail.com",
+      "comment": "KhacTai",
+      "rating": 5,
+      "idUser": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "idUser": 1,
+      "idProduct": 1,
+      "status": "Đang giao",
+      "code": 1234,
+      "address": "Da Nang",
+      "phone": 12345678,
+      "payment": "Tiền mặt",
+      "stock": 0,
+      "quantity": 0,
+      "totalstock": 0,
+      "price": 123445,
+      "totalPrice": 53422,
+      "shipping": 1231
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "image": "https://prodima.vn/wp-content/uploads/2021/04/9-cach-viet-blog-dinh-cao-khien-nguoi-doc-phai-click-ngay.jpg",
+      "content": " hom nay dep qua"
+    }
+  ],
+  "payment": [
+    {
+      "id": 1,
+      "name": "Thẻ"
+    }
+  ]
+}
